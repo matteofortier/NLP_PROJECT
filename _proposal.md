@@ -25,4 +25,8 @@ The dataset has 1 million recipes.
 
 **MVP Goal:**
 
-Document-term matrix for dataset.
+Document-term matrix for dataset. Including text preprocessing.
+
++Topic Modelling
+
++Recommendation System
