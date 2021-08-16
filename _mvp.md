@@ -11,7 +11,7 @@ In order to produce a recommendation system, the following steps have been compl
 
 Here are the top 10 ingredients that have appeared in 1 million recipes (counts included): 
 
-<img src="images/top_10_ingredients.png" style="zoom: 50%;" />
+<img src="images/top_10_ingredients.png" style="zoom: 33%;" />
 
 Here are the top 10 topics and their top 5 terms (NMF):
 
