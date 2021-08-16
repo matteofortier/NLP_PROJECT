@@ -16,3 +16,12 @@ Here are the top 10 ingredients that have appeared in 1 million recipes (counts 
 Here are the top 10 topics and their top 5 terms (NMF):
 
 <img src="images/top_10_topics.png" alt="top_10_topics" style="zoom:50%;" />
+
+
+
+**Future Steps Include**:
+
+- Making a recommendation system using the above topics
+- Trying SVD
+- Trying clustering methods
+- Trying the inclusion of recipe instructions
