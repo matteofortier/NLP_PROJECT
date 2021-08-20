@@ -4,7 +4,7 @@
 
 ## Abstract
 
-
+The goal of this project was to explore wheter unsupervised learning could group recipes together based on ingredients and produce a recommendation system based on the topics. This is important to investigate from the point of view of meal kit delivery companies who may want to increase customer retention by providing customers recipes they are likely to enjoy. The Recipes1M+ dataset provided by [MIT](http://pic2recipe.csail.mit.edu) was used for this project. NLP and topic modelling was used to form the recommendation system. A prototype was deployed on streamlit.
 
 ## Design
 
